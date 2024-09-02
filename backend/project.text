@@ -1,0 +1,13 @@
+1.bcrypt:-it is a cryptographic hash funtion designed for the password hashing and safe storing in the backend of application in a way that is less suseptible to dictionary based cyber attack.
+2.cloudinary :- it is powerfull media management and delivery platform.
+ featurers: using this you can upload, store, manage and transforn your media assets( images ,ideos )efficiently.
+            fast and reliable delivery or your media over the user wildwide.
+3.cookie-parser:
+4.cor:for connecting front end and backend.
+5.dotenv:for making variables secrete. 
+6.express:
+7.express-fileupload.
+8.jsonwebtoken:it is used for generated tokens.
+9.mongose:
+10.node-cron:
+11.nodemailer:
